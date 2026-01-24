@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run Agent Demo",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/agent_demo.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Python: Run Mock API",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/mock_api.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
