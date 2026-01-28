@@ -253,22 +253,22 @@ flowchart TD
 
 ## Author and Workshop Lead
 
-**Mr. Eng. Manai Mohamed Mortadha**
-Senior AI Engineer , Netflix USA
-AI Expert Consultant , Tegus USA
-PhD Candidate in Explainable AI (xAI) , Saint MAry's University Canada
-International AI Speaker ( Linkedin Top AI Voice )
-CEO and Head of AI R&D at Man.AI Global
-AI Expert Reviewer & Author , Packt Publishing UK
+## Mr. Eng. Manai Mohamed Mortadha
+* Senior AI Engineer , Netflix USA
+* AI Expert Consultant , Tegus USA
+* PhD Candidate in Explainable AI (xAI) , Saint MAry's University Canada
+* International AI Speaker ( Linkedin Top AI Voice )
+* CEO and Head of AI R&D at Man.AI Global
+* AI Expert Reviewer & Author , Packt Publishing UK
 
-**Links :** 
-Social Media :      https://taplink.cc/manaimortadha
-LinkedIn Profile :  https://www.linkedin.com/in/mannai-mortadha/
-GitHub Portfolio :  https://github.com/MortadhaMannai
-Leetcode Profile :  https://leetcode.com/u/mannaimortadha898/
-Meduim Blog :       https://www.google.com/url?q=https://manaimortadha.medium.com/
-Sessionize Profile: https://www.google.com/url?q=https://sessionize.com/Mortadha_Mannai
-Email :             mannaimortadha898@gmail.com
+## Links : 
+* Social Media :      https://taplink.cc/manaimortadha
+* LinkedIn Profile :  https://www.linkedin.com/in/mannai-mortadha/
+* GitHub Portfolio :  https://github.com/MortadhaMannai
+* Leetcode Profile :  https://leetcode.com/u/mannaimortadha898/
+* Meduim Blog :       https://www.google.com/url?q=https://manaimortadha.medium.com/
+* Sessionize Profile: https://www.google.com/url?q=https://sessionize.com/Mortadha_Mannai
+* Email :             mannaimortadha898@gmail.com
 
 **Tunisia AI Universities Tour 2026**
 *Building Agentic AI Workflows with xAI on Google Vertex AI - From Code to Action*
