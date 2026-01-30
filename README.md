@@ -1,7 +1,7 @@
 # Tunisia AI Tour 2026 - Google Vertex AI Agent Workshops Series 
 (covering all Universities from the North to the south of Tunisia  )
 
-**Building Agentic AI Workflows with xAI - From Code to Action**  
+**Building Agentic AI Workflows with xAI - From Code to Action**     
 
 This repository contains the full hands-on material used in the **Google Vertex AI Agent Workshop Series**, delivered during the **Tunisia AI Universities Tour 2026** .
 
