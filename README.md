@@ -7,7 +7,7 @@ This repository contains the full hands-on material used in the **Google Vertex 
 
 It demonstrates how to **build agentic AI systems step by step**, starting from a **local AI agent** and progressing toward **cloud-scale agentic workflows on Google Vertex AI**, with a strong focus on **explainability (xAI)** and responsible AI.
 
----
+---   
 
 ## What is Tunisia AI Tour’26?
 
