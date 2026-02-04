@@ -2,7 +2,7 @@
 (covering all Universities from the North to the south of Tunisia  )  
     
 **Building Agentic AI Workflows with xAI - From Code to Action**     
-
+   
 This repository contains the full hands-on material used in the **Google Vertex AI Agent Workshop Series**, delivered during the **Tunisia AI Universities Tour 2026** .
 
 It demonstrates how to **build agentic AI systems step by step**, starting from a **local AI agent** and progressing toward **cloud-scale agentic workflows on Google Vertex AI**, with a strong focus on **explainability (xAI)** and responsible AI.
